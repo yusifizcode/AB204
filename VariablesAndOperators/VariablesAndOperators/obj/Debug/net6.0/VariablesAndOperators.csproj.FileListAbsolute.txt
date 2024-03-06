@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CodeAcademy\AB204\VariablesAndOperators\VariablesAndOperators\obj\Debug\net6.0\VariablesAndOperators.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\VariablesAndOperators\VariablesAndOperators\obj\Debug\net6.0\VariablesAndOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CodeAcademy\AB204\VariablesAndOperators\VariablesAndOperators\obj\Debug\net6.0\VariablesAndOperators.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\VariablesAndOperators\VariablesAndOperators\obj\Debug\net6.0\VariablesAndOperators.AssemblyInfo.cs
+C:\Users\User\Desktop\CodeAcademy\AB204\VariablesAndOperators\VariablesAndOperators\obj\Debug\net6.0\VariablesAndOperators.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\VariablesAndOperators\VariablesAndOperators\bin\Debug\net6.0\VariablesAndOperators.exe
+C:\Users\User\Desktop\CodeAcademy\AB204\VariablesAndOperators\VariablesAndOperators\bin\Debug\net6.0\VariablesAndOperators.deps.json
+C:\Users\User\Desktop\CodeAcademy\AB204\VariablesAndOperators\VariablesAndOperators\bin\Debug\net6.0\VariablesAndOperators.runtimeconfig.json
+C:\Users\User\Desktop\CodeAcademy\AB204\VariablesAndOperators\VariablesAndOperators\bin\Debug\net6.0\VariablesAndOperators.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\VariablesAndOperators\VariablesAndOperators\bin\Debug\net6.0\VariablesAndOperators.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\VariablesAndOperators\VariablesAndOperators\obj\Debug\net6.0\VariablesAndOperators.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\VariablesAndOperators\VariablesAndOperators\obj\Debug\net6.0\refint\VariablesAndOperators.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\VariablesAndOperators\VariablesAndOperators\obj\Debug\net6.0\VariablesAndOperators.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\VariablesAndOperators\VariablesAndOperators\obj\Debug\net6.0\VariablesAndOperators.genruntimeconfig.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\VariablesAndOperators\VariablesAndOperators\obj\Debug\net6.0\ref\VariablesAndOperators.dll
