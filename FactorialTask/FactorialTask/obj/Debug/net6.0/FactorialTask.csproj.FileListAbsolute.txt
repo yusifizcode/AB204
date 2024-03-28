@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CodeAcademy\AB204\FactorialTask\FactorialTask\bin\Debug\net6.0\FactorialTask.exe
+C:\Users\User\Desktop\CodeAcademy\AB204\FactorialTask\FactorialTask\bin\Debug\net6.0\FactorialTask.deps.json
+C:\Users\User\Desktop\CodeAcademy\AB204\FactorialTask\FactorialTask\bin\Debug\net6.0\FactorialTask.runtimeconfig.json
+C:\Users\User\Desktop\CodeAcademy\AB204\FactorialTask\FactorialTask\bin\Debug\net6.0\FactorialTask.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\FactorialTask\FactorialTask\bin\Debug\net6.0\FactorialTask.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\FactorialTask\FactorialTask\obj\Debug\net6.0\FactorialTask.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\FactorialTask\FactorialTask\obj\Debug\net6.0\FactorialTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CodeAcademy\AB204\FactorialTask\FactorialTask\obj\Debug\net6.0\FactorialTask.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\FactorialTask\FactorialTask\obj\Debug\net6.0\FactorialTask.AssemblyInfo.cs
+C:\Users\User\Desktop\CodeAcademy\AB204\FactorialTask\FactorialTask\obj\Debug\net6.0\FactorialTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\FactorialTask\FactorialTask\obj\Debug\net6.0\FactorialTask.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\FactorialTask\FactorialTask\obj\Debug\net6.0\refint\FactorialTask.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\FactorialTask\FactorialTask\obj\Debug\net6.0\FactorialTask.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\FactorialTask\FactorialTask\obj\Debug\net6.0\FactorialTask.genruntimeconfig.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\FactorialTask\FactorialTask\obj\Debug\net6.0\ref\FactorialTask.dll

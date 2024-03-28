@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CodeAcademy\AB204\Class_Inheritance\Class_Inheritance\bin\Debug\net6.0\Class_Inheritance.exe
+C:\Users\User\Desktop\CodeAcademy\AB204\Class_Inheritance\Class_Inheritance\bin\Debug\net6.0\Class_Inheritance.deps.json
+C:\Users\User\Desktop\CodeAcademy\AB204\Class_Inheritance\Class_Inheritance\bin\Debug\net6.0\Class_Inheritance.runtimeconfig.json
+C:\Users\User\Desktop\CodeAcademy\AB204\Class_Inheritance\Class_Inheritance\bin\Debug\net6.0\Class_Inheritance.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\Class_Inheritance\Class_Inheritance\bin\Debug\net6.0\Class_Inheritance.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\Class_Inheritance\Class_Inheritance\obj\Debug\net6.0\Class_Inheritance.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\Class_Inheritance\Class_Inheritance\obj\Debug\net6.0\Class_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CodeAcademy\AB204\Class_Inheritance\Class_Inheritance\obj\Debug\net6.0\Class_Inheritance.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\Class_Inheritance\Class_Inheritance\obj\Debug\net6.0\Class_Inheritance.AssemblyInfo.cs
+C:\Users\User\Desktop\CodeAcademy\AB204\Class_Inheritance\Class_Inheritance\obj\Debug\net6.0\Class_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\Class_Inheritance\Class_Inheritance\obj\Debug\net6.0\Class_Inheritance.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\Class_Inheritance\Class_Inheritance\obj\Debug\net6.0\refint\Class_Inheritance.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\Class_Inheritance\Class_Inheritance\obj\Debug\net6.0\Class_Inheritance.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\Class_Inheritance\Class_Inheritance\obj\Debug\net6.0\Class_Inheritance.genruntimeconfig.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\Class_Inheritance\Class_Inheritance\obj\Debug\net6.0\ref\Class_Inheritance.dll

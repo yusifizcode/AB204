@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CodeAcademy\AB204\CompilationTest\CompilationProccess\CompilationProccess\bin\Debug\net6.0\CompilationProccess.exe
+C:\Users\User\Desktop\CodeAcademy\AB204\CompilationTest\CompilationProccess\CompilationProccess\bin\Debug\net6.0\CompilationProccess.deps.json
+C:\Users\User\Desktop\CodeAcademy\AB204\CompilationTest\CompilationProccess\CompilationProccess\bin\Debug\net6.0\CompilationProccess.runtimeconfig.json
+C:\Users\User\Desktop\CodeAcademy\AB204\CompilationTest\CompilationProccess\CompilationProccess\bin\Debug\net6.0\CompilationProccess.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\CompilationTest\CompilationProccess\CompilationProccess\bin\Debug\net6.0\CompilationProccess.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\CompilationTest\CompilationProccess\CompilationProccess\obj\Debug\net6.0\CompilationProccess.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\CompilationTest\CompilationProccess\CompilationProccess\obj\Debug\net6.0\CompilationProccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CodeAcademy\AB204\CompilationTest\CompilationProccess\CompilationProccess\obj\Debug\net6.0\CompilationProccess.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\CompilationTest\CompilationProccess\CompilationProccess\obj\Debug\net6.0\CompilationProccess.AssemblyInfo.cs
+C:\Users\User\Desktop\CodeAcademy\AB204\CompilationTest\CompilationProccess\CompilationProccess\obj\Debug\net6.0\CompilationProccess.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\CompilationTest\CompilationProccess\CompilationProccess\obj\Debug\net6.0\CompilationProccess.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\CompilationTest\CompilationProccess\CompilationProccess\obj\Debug\net6.0\refint\CompilationProccess.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\CompilationTest\CompilationProccess\CompilationProccess\obj\Debug\net6.0\CompilationProccess.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\CompilationTest\CompilationProccess\CompilationProccess\obj\Debug\net6.0\CompilationProccess.genruntimeconfig.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\CompilationTest\CompilationProccess\CompilationProccess\obj\Debug\net6.0\ref\CompilationProccess.dll
