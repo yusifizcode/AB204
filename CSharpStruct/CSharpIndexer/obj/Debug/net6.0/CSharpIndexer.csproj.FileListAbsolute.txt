@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CodeAcademy\AB204\CSharpStruct\CSharpIndexer\bin\Debug\net6.0\CSharpIndexer.exe
+C:\Users\User\Desktop\CodeAcademy\AB204\CSharpStruct\CSharpIndexer\bin\Debug\net6.0\CSharpIndexer.deps.json
+C:\Users\User\Desktop\CodeAcademy\AB204\CSharpStruct\CSharpIndexer\bin\Debug\net6.0\CSharpIndexer.runtimeconfig.json
+C:\Users\User\Desktop\CodeAcademy\AB204\CSharpStruct\CSharpIndexer\bin\Debug\net6.0\CSharpIndexer.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\CSharpStruct\CSharpIndexer\bin\Debug\net6.0\CSharpIndexer.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\CSharpStruct\CSharpIndexer\obj\Debug\net6.0\CSharpIndexer.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\CSharpStruct\CSharpIndexer\obj\Debug\net6.0\CSharpIndexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CodeAcademy\AB204\CSharpStruct\CSharpIndexer\obj\Debug\net6.0\CSharpIndexer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\CSharpStruct\CSharpIndexer\obj\Debug\net6.0\CSharpIndexer.AssemblyInfo.cs
+C:\Users\User\Desktop\CodeAcademy\AB204\CSharpStruct\CSharpIndexer\obj\Debug\net6.0\CSharpIndexer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\CSharpStruct\CSharpIndexer\obj\Debug\net6.0\CSharpIndexer.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\CSharpStruct\CSharpIndexer\obj\Debug\net6.0\refint\CSharpIndexer.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\CSharpStruct\CSharpIndexer\obj\Debug\net6.0\CSharpIndexer.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\CSharpStruct\CSharpIndexer\obj\Debug\net6.0\CSharpIndexer.genruntimeconfig.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\CSharpStruct\CSharpIndexer\obj\Debug\net6.0\ref\CSharpIndexer.dll

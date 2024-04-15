@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casting", "Casting\Casting.csproj", "{61BEE987-CC75-4CC7-AA53-88D3F33FA6C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastingClassTask", "CastingClassTask\CastingClassTask.csproj", "{52A4F7D5-1D51-49A0-8C2F-1F7B66C5BAB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61BEE987-CC75-4CC7-AA53-88D3F33FA6C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61BEE987-CC75-4CC7-AA53-88D3F33FA6C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61BEE987-CC75-4CC7-AA53-88D3F33FA6C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61BEE987-CC75-4CC7-AA53-88D3F33FA6C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52A4F7D5-1D51-49A0-8C2F-1F7B66C5BAB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A4F7D5-1D51-49A0-8C2F-1F7B66C5BAB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A4F7D5-1D51-49A0-8C2F-1F7B66C5BAB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A4F7D5-1D51-49A0-8C2F-1F7B66C5BAB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9947FAE6-3874-46E7-8611-A895B9F7BFE2}
+	EndGlobalSection
+EndGlobal

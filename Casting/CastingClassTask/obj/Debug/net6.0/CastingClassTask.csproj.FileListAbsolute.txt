@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CodeAcademy\AB204\Casting\CastingClassTask\bin\Debug\net6.0\CastingClassTask.exe
+C:\Users\User\Desktop\CodeAcademy\AB204\Casting\CastingClassTask\bin\Debug\net6.0\CastingClassTask.deps.json
+C:\Users\User\Desktop\CodeAcademy\AB204\Casting\CastingClassTask\bin\Debug\net6.0\CastingClassTask.runtimeconfig.json
+C:\Users\User\Desktop\CodeAcademy\AB204\Casting\CastingClassTask\bin\Debug\net6.0\CastingClassTask.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\Casting\CastingClassTask\bin\Debug\net6.0\CastingClassTask.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\Casting\CastingClassTask\obj\Debug\net6.0\CastingClassTask.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\Casting\CastingClassTask\obj\Debug\net6.0\CastingClassTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CodeAcademy\AB204\Casting\CastingClassTask\obj\Debug\net6.0\CastingClassTask.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\Casting\CastingClassTask\obj\Debug\net6.0\CastingClassTask.AssemblyInfo.cs
+C:\Users\User\Desktop\CodeAcademy\AB204\Casting\CastingClassTask\obj\Debug\net6.0\CastingClassTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\Casting\CastingClassTask\obj\Debug\net6.0\CastingClassTask.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\Casting\CastingClassTask\obj\Debug\net6.0\refint\CastingClassTask.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\Casting\CastingClassTask\obj\Debug\net6.0\CastingClassTask.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\Casting\CastingClassTask\obj\Debug\net6.0\CastingClassTask.genruntimeconfig.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\Casting\CastingClassTask\obj\Debug\net6.0\ref\CastingClassTask.dll

@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CodeAcademy\AB204\AbstractionsPartTwo\AbstractionsPartTwo\bin\Debug\net6.0\AbstractionsPartTwo.exe
+C:\Users\User\Desktop\CodeAcademy\AB204\AbstractionsPartTwo\AbstractionsPartTwo\bin\Debug\net6.0\AbstractionsPartTwo.deps.json
+C:\Users\User\Desktop\CodeAcademy\AB204\AbstractionsPartTwo\AbstractionsPartTwo\bin\Debug\net6.0\AbstractionsPartTwo.runtimeconfig.json
+C:\Users\User\Desktop\CodeAcademy\AB204\AbstractionsPartTwo\AbstractionsPartTwo\bin\Debug\net6.0\AbstractionsPartTwo.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\AbstractionsPartTwo\AbstractionsPartTwo\bin\Debug\net6.0\AbstractionsPartTwo.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\AbstractionsPartTwo\AbstractionsPartTwo\obj\Debug\net6.0\AbstractionsPartTwo.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\AbstractionsPartTwo\AbstractionsPartTwo\obj\Debug\net6.0\AbstractionsPartTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CodeAcademy\AB204\AbstractionsPartTwo\AbstractionsPartTwo\obj\Debug\net6.0\AbstractionsPartTwo.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\AbstractionsPartTwo\AbstractionsPartTwo\obj\Debug\net6.0\AbstractionsPartTwo.AssemblyInfo.cs
+C:\Users\User\Desktop\CodeAcademy\AB204\AbstractionsPartTwo\AbstractionsPartTwo\obj\Debug\net6.0\AbstractionsPartTwo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\AbstractionsPartTwo\AbstractionsPartTwo\obj\Debug\net6.0\AbstractionsPartTwo.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\AbstractionsPartTwo\AbstractionsPartTwo\obj\Debug\net6.0\refint\AbstractionsPartTwo.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\AbstractionsPartTwo\AbstractionsPartTwo\obj\Debug\net6.0\AbstractionsPartTwo.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\AbstractionsPartTwo\AbstractionsPartTwo\obj\Debug\net6.0\AbstractionsPartTwo.genruntimeconfig.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\AbstractionsPartTwo\AbstractionsPartTwo\obj\Debug\net6.0\ref\AbstractionsPartTwo.dll

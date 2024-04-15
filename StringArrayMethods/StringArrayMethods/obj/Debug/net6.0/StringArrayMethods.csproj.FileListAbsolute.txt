@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CodeAcademy\AB204\StringArrayMethods\StringArrayMethods\bin\Debug\net6.0\StringArrayMethods.exe
+C:\Users\User\Desktop\CodeAcademy\AB204\StringArrayMethods\StringArrayMethods\bin\Debug\net6.0\StringArrayMethods.deps.json
+C:\Users\User\Desktop\CodeAcademy\AB204\StringArrayMethods\StringArrayMethods\bin\Debug\net6.0\StringArrayMethods.runtimeconfig.json
+C:\Users\User\Desktop\CodeAcademy\AB204\StringArrayMethods\StringArrayMethods\bin\Debug\net6.0\StringArrayMethods.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\StringArrayMethods\StringArrayMethods\bin\Debug\net6.0\StringArrayMethods.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\StringArrayMethods\StringArrayMethods\obj\Debug\net6.0\StringArrayMethods.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\StringArrayMethods\StringArrayMethods\obj\Debug\net6.0\StringArrayMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CodeAcademy\AB204\StringArrayMethods\StringArrayMethods\obj\Debug\net6.0\StringArrayMethods.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\StringArrayMethods\StringArrayMethods\obj\Debug\net6.0\StringArrayMethods.AssemblyInfo.cs
+C:\Users\User\Desktop\CodeAcademy\AB204\StringArrayMethods\StringArrayMethods\obj\Debug\net6.0\StringArrayMethods.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\StringArrayMethods\StringArrayMethods\obj\Debug\net6.0\StringArrayMethods.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\StringArrayMethods\StringArrayMethods\obj\Debug\net6.0\refint\StringArrayMethods.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\StringArrayMethods\StringArrayMethods\obj\Debug\net6.0\StringArrayMethods.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\StringArrayMethods\StringArrayMethods\obj\Debug\net6.0\StringArrayMethods.genruntimeconfig.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\StringArrayMethods\StringArrayMethods\obj\Debug\net6.0\ref\StringArrayMethods.dll

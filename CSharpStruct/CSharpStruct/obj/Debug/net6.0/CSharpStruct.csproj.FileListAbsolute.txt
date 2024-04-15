@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CodeAcademy\AB204\CSharpStruct\CSharpStruct\bin\Debug\net6.0\CSharpStruct.exe
+C:\Users\User\Desktop\CodeAcademy\AB204\CSharpStruct\CSharpStruct\bin\Debug\net6.0\CSharpStruct.deps.json
+C:\Users\User\Desktop\CodeAcademy\AB204\CSharpStruct\CSharpStruct\bin\Debug\net6.0\CSharpStruct.runtimeconfig.json
+C:\Users\User\Desktop\CodeAcademy\AB204\CSharpStruct\CSharpStruct\bin\Debug\net6.0\CSharpStruct.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\CSharpStruct\CSharpStruct\bin\Debug\net6.0\CSharpStruct.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\CSharpStruct\CSharpStruct\obj\Debug\net6.0\CSharpStruct.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\CSharpStruct\CSharpStruct\obj\Debug\net6.0\CSharpStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CodeAcademy\AB204\CSharpStruct\CSharpStruct\obj\Debug\net6.0\CSharpStruct.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\CSharpStruct\CSharpStruct\obj\Debug\net6.0\CSharpStruct.AssemblyInfo.cs
+C:\Users\User\Desktop\CodeAcademy\AB204\CSharpStruct\CSharpStruct\obj\Debug\net6.0\CSharpStruct.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\CSharpStruct\CSharpStruct\obj\Debug\net6.0\CSharpStruct.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\CSharpStruct\CSharpStruct\obj\Debug\net6.0\refint\CSharpStruct.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\CSharpStruct\CSharpStruct\obj\Debug\net6.0\CSharpStruct.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\CSharpStruct\CSharpStruct\obj\Debug\net6.0\CSharpStruct.genruntimeconfig.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\CSharpStruct\CSharpStruct\obj\Debug\net6.0\ref\CSharpStruct.dll

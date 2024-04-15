@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CodeAcademy\AB204\Record_Tuple\Polymorphysm\bin\Debug\net6.0\Polymorphysm.exe
+C:\Users\User\Desktop\CodeAcademy\AB204\Record_Tuple\Polymorphysm\bin\Debug\net6.0\Polymorphysm.deps.json
+C:\Users\User\Desktop\CodeAcademy\AB204\Record_Tuple\Polymorphysm\bin\Debug\net6.0\Polymorphysm.runtimeconfig.json
+C:\Users\User\Desktop\CodeAcademy\AB204\Record_Tuple\Polymorphysm\bin\Debug\net6.0\Polymorphysm.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\Record_Tuple\Polymorphysm\bin\Debug\net6.0\Polymorphysm.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\Record_Tuple\Polymorphysm\obj\Debug\net6.0\Polymorphysm.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\Record_Tuple\Polymorphysm\obj\Debug\net6.0\Polymorphysm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CodeAcademy\AB204\Record_Tuple\Polymorphysm\obj\Debug\net6.0\Polymorphysm.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\Record_Tuple\Polymorphysm\obj\Debug\net6.0\Polymorphysm.AssemblyInfo.cs
+C:\Users\User\Desktop\CodeAcademy\AB204\Record_Tuple\Polymorphysm\obj\Debug\net6.0\Polymorphysm.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\Record_Tuple\Polymorphysm\obj\Debug\net6.0\Polymorphysm.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\Record_Tuple\Polymorphysm\obj\Debug\net6.0\refint\Polymorphysm.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\Record_Tuple\Polymorphysm\obj\Debug\net6.0\Polymorphysm.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\Record_Tuple\Polymorphysm\obj\Debug\net6.0\Polymorphysm.genruntimeconfig.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\Record_Tuple\Polymorphysm\obj\Debug\net6.0\ref\Polymorphysm.dll
