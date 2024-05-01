@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CodeAcademy\AB204\FileDirectory\FileDirectory\bin\Debug\net6.0\FileDirectory.exe
+C:\Users\User\Desktop\CodeAcademy\AB204\FileDirectory\FileDirectory\bin\Debug\net6.0\FileDirectory.deps.json
+C:\Users\User\Desktop\CodeAcademy\AB204\FileDirectory\FileDirectory\bin\Debug\net6.0\FileDirectory.runtimeconfig.json
+C:\Users\User\Desktop\CodeAcademy\AB204\FileDirectory\FileDirectory\bin\Debug\net6.0\FileDirectory.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\FileDirectory\FileDirectory\bin\Debug\net6.0\FileDirectory.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\FileDirectory\FileDirectory\obj\Debug\net6.0\FileDirectory.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\FileDirectory\FileDirectory\obj\Debug\net6.0\FileDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CodeAcademy\AB204\FileDirectory\FileDirectory\obj\Debug\net6.0\FileDirectory.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\FileDirectory\FileDirectory\obj\Debug\net6.0\FileDirectory.AssemblyInfo.cs
+C:\Users\User\Desktop\CodeAcademy\AB204\FileDirectory\FileDirectory\obj\Debug\net6.0\FileDirectory.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\FileDirectory\FileDirectory\obj\Debug\net6.0\FileDirectory.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\FileDirectory\FileDirectory\obj\Debug\net6.0\refint\FileDirectory.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\FileDirectory\FileDirectory\obj\Debug\net6.0\FileDirectory.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\FileDirectory\FileDirectory\obj\Debug\net6.0\FileDirectory.genruntimeconfig.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\FileDirectory\FileDirectory\obj\Debug\net6.0\ref\FileDirectory.dll

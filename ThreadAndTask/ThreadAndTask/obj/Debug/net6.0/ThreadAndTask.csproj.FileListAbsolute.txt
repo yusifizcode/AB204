@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CodeAcademy\AB204\ThreadAndTask\ThreadAndTask\bin\Debug\net6.0\ThreadAndTask.exe
+C:\Users\User\Desktop\CodeAcademy\AB204\ThreadAndTask\ThreadAndTask\bin\Debug\net6.0\ThreadAndTask.deps.json
+C:\Users\User\Desktop\CodeAcademy\AB204\ThreadAndTask\ThreadAndTask\bin\Debug\net6.0\ThreadAndTask.runtimeconfig.json
+C:\Users\User\Desktop\CodeAcademy\AB204\ThreadAndTask\ThreadAndTask\bin\Debug\net6.0\ThreadAndTask.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\ThreadAndTask\ThreadAndTask\bin\Debug\net6.0\ThreadAndTask.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\ThreadAndTask\ThreadAndTask\obj\Debug\net6.0\ThreadAndTask.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\ThreadAndTask\ThreadAndTask\obj\Debug\net6.0\ThreadAndTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CodeAcademy\AB204\ThreadAndTask\ThreadAndTask\obj\Debug\net6.0\ThreadAndTask.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\ThreadAndTask\ThreadAndTask\obj\Debug\net6.0\ThreadAndTask.AssemblyInfo.cs
+C:\Users\User\Desktop\CodeAcademy\AB204\ThreadAndTask\ThreadAndTask\obj\Debug\net6.0\ThreadAndTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\ThreadAndTask\ThreadAndTask\obj\Debug\net6.0\ThreadAndTask.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\ThreadAndTask\ThreadAndTask\obj\Debug\net6.0\refint\ThreadAndTask.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\ThreadAndTask\ThreadAndTask\obj\Debug\net6.0\ThreadAndTask.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\ThreadAndTask\ThreadAndTask\obj\Debug\net6.0\ThreadAndTask.genruntimeconfig.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\ThreadAndTask\ThreadAndTask\obj\Debug\net6.0\ref\ThreadAndTask.dll

@@ -1,0 +1,112 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.a{
+    font-size: 30px;
+    color: aliceblue;
+    position: relative;
+    text-align: center;
+    margin-left: 150px;
+    margin-top: 40px;   
+}
+
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav-right {
+  float: right;
+  margin-right: 25px;
+}
+
+
+.header
+{
+    background-color: #0d6efd;
+    height: 270px;
+    text-align: center;
+    padding-top: 65px;
+    
+}
+.h{
+    color: beige;
+    text-align: center;
+    margin-top: 0px;
+    display:grid;
+    place-items: center;
+    font-size: 50px;
+}
+
+
+
+.about{
+    background-color: white;
+    display:grid;
+    place-items: center;
+    margin-top: 0px;
+    height: 550px;
+    font-size: 25px;
+}
+
+.Services{
+    margin-top: 0px;
+    background-color: #efeeee;
+    height: 420px;
+    display:grid;
+    place-items: center;
+    font-size: 25px;   
+}
+
+
+.Contact{
+    margin-top: 0px;
+    height: 420px;
+    display:grid;
+    place-items: center;
+    font-size: 25px;
+}
+
+.nav{
+    background-color: #212529;
+    height: 80px;
+    padding-top: 1px;
+    margin-top: 0px;
+}
+
+.footer-p{
+    height: 80px;
+    color: beige;
+    font-size: 20px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+
+.button {
+    background-color: #f5f8f7; /* Green */
+    border: none;
+    color: rgb(9, 9, 9);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    align-content: center;
+    border-radius: 12px;
+    margin-top: 15px;
+  }
+
