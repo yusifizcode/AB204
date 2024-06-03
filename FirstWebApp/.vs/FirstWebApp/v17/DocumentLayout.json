@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\FirstWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4143E23B-7795-4FEF-8276-956A811E25EC}|FirstWebApp\\FirstWebApp.csproj|c:\\users\\user\\desktop\\codeacademy\\ab204\\firstwebapp\\firstwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4143E23B-7795-4FEF-8276-956A811E25EC}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4143E23B-7795-4FEF-8276-956A811E25EC}|FirstWebApp\\FirstWebApp.csproj|c:\\users\\user\\desktop\\codeacademy\\ab204\\firstwebapp\\firstwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4143E23B-7795-4FEF-8276-956A811E25EC}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4143E23B-7795-4FEF-8276-956A811E25EC}|FirstWebApp\\FirstWebApp.csproj|c:\\users\\user\\desktop\\codeacademy\\ab204\\firstwebapp\\firstwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4143E23B-7795-4FEF-8276-956A811E25EC}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4143E23B-7795-4FEF-8276-956A811E25EC}|FirstWebApp\\FirstWebApp.csproj|c:\\users\\user\\desktop\\codeacademy\\ab204\\firstwebapp\\firstwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4143E23B-7795-4FEF-8276-956A811E25EC}|FirstWebApp\\FirstWebApp.csproj|solutionrelative:firstwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\FirstWebApp\\FirstWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "FirstWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\FirstWebApp\\FirstWebApp\\Program.cs",
+              "RelativeToolTip": "FirstWebApp\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwB4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:52:39.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\FirstWebApp\\FirstWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FirstWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\FirstWebApp\\FirstWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FirstWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:40:52.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\FirstWebApp\\FirstWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FirstWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\FirstWebApp\\FirstWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FirstWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T10:39:25.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\FirstWebApp\\FirstWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\FirstWebApp\\FirstWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FirstWebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T10:39:08.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\CarTemplateMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2887BD08-FF26-40E6-A4B4-E754211832D0}|CarTemplateMVC\\CarTemplateMVC.csproj|c:\\users\\user\\desktop\\codeacademy\\ab204\\cartemplatemvc\\cartemplatemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2887BD08-FF26-40E6-A4B4-E754211832D0}|CarTemplateMVC\\CarTemplateMVC.csproj|solutionrelative:cartemplatemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2887BD08-FF26-40E6-A4B4-E754211832D0}|CarTemplateMVC\\CarTemplateMVC.csproj|c:\\users\\user\\desktop\\codeacademy\\ab204\\cartemplatemvc\\cartemplatemvc\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2887BD08-FF26-40E6-A4B4-E754211832D0}|CarTemplateMVC\\CarTemplateMVC.csproj|solutionrelative:cartemplatemvc\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2887BD08-FF26-40E6-A4B4-E754211832D0}|CarTemplateMVC\\CarTemplateMVC.csproj|c:\\users\\user\\desktop\\codeacademy\\ab204\\cartemplatemvc\\cartemplatemvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2887BD08-FF26-40E6-A4B4-E754211832D0}|CarTemplateMVC\\CarTemplateMVC.csproj|solutionrelative:cartemplatemvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2887BD08-FF26-40E6-A4B4-E754211832D0}|CarTemplateMVC\\CarTemplateMVC.csproj|c:\\users\\user\\desktop\\codeacademy\\ab204\\cartemplatemvc\\cartemplatemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2887BD08-FF26-40E6-A4B4-E754211832D0}|CarTemplateMVC\\CarTemplateMVC.csproj|solutionrelative:cartemplatemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2887BD08-FF26-40E6-A4B4-E754211832D0}|CarTemplateMVC\\CarTemplateMVC.csproj|c:\\users\\user\\desktop\\codeacademy\\ab204\\cartemplatemvc\\cartemplatemvc\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2887BD08-FF26-40E6-A4B4-E754211832D0}|CarTemplateMVC\\CarTemplateMVC.csproj|solutionrelative:cartemplatemvc\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2887BD08-FF26-40E6-A4B4-E754211832D0}|CarTemplateMVC\\CarTemplateMVC.csproj|c:\\users\\user\\desktop\\codeacademy\\ab204\\cartemplatemvc\\cartemplatemvc\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2887BD08-FF26-40E6-A4B4-E754211832D0}|CarTemplateMVC\\CarTemplateMVC.csproj|solutionrelative:cartemplatemvc\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2887BD08-FF26-40E6-A4B4-E754211832D0}|CarTemplateMVC\\CarTemplateMVC.csproj|c:\\users\\user\\desktop\\codeacademy\\ab204\\cartemplatemvc\\cartemplatemvc\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2887BD08-FF26-40E6-A4B4-E754211832D0}|CarTemplateMVC\\CarTemplateMVC.csproj|solutionrelative:cartemplatemvc\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2887BD08-FF26-40E6-A4B4-E754211832D0}|CarTemplateMVC\\CarTemplateMVC.csproj|c:\\users\\user\\desktop\\codeacademy\\ab204\\cartemplatemvc\\cartemplatemvc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2887BD08-FF26-40E6-A4B4-E754211832D0}|CarTemplateMVC\\CarTemplateMVC.csproj|solutionrelative:cartemplatemvc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2887BD08-FF26-40E6-A4B4-E754211832D0}|CarTemplateMVC\\CarTemplateMVC.csproj|c:\\users\\user\\desktop\\codeacademy\\ab204\\cartemplatemvc\\cartemplatemvc\\models\\technician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2887BD08-FF26-40E6-A4B4-E754211832D0}|CarTemplateMVC\\CarTemplateMVC.csproj|solutionrelative:cartemplatemvc\\models\\technician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2887BD08-FF26-40E6-A4B4-E754211832D0}|CarTemplateMVC\\CarTemplateMVC.csproj|c:\\users\\user\\desktop\\codeacademy\\ab204\\cartemplatemvc\\cartemplatemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2887BD08-FF26-40E6-A4B4-E754211832D0}|CarTemplateMVC\\CarTemplateMVC.csproj|solutionrelative:cartemplatemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2887BD08-FF26-40E6-A4B4-E754211832D0}|CarTemplateMVC\\CarTemplateMVC.csproj|c:\\users\\user\\desktop\\codeacademy\\ab204\\cartemplatemvc\\cartemplatemvc\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2887BD08-FF26-40E6-A4B4-E754211832D0}|CarTemplateMVC\\CarTemplateMVC.csproj|solutionrelative:cartemplatemvc\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2887BD08-FF26-40E6-A4B4-E754211832D0}|CarTemplateMVC\\CarTemplateMVC.csproj|c:\\users\\user\\desktop\\codeacademy\\ab204\\cartemplatemvc\\cartemplatemvc\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2887BD08-FF26-40E6-A4B4-E754211832D0}|CarTemplateMVC\\CarTemplateMVC.csproj|solutionrelative:cartemplatemvc\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2887BD08-FF26-40E6-A4B4-E754211832D0}|CarTemplateMVC\\CarTemplateMVC.csproj|c:\\users\\user\\desktop\\codeacademy\\ab204\\cartemplatemvc\\cartemplatemvc\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2887BD08-FF26-40E6-A4B4-E754211832D0}|CarTemplateMVC\\CarTemplateMVC.csproj|solutionrelative:cartemplatemvc\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\CarTemplateMVC\\CarTemplateMVC\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "CarTemplateMVC\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\CarTemplateMVC\\CarTemplateMVC\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "CarTemplateMVC\\ViewModels\\HomeVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:32:01.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\CarTemplateMVC\\CarTemplateMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CarTemplateMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\CarTemplateMVC\\CarTemplateMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CarTemplateMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowFIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:16:29.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\CarTemplateMVC\\CarTemplateMVC\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "CarTemplateMVC\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\CarTemplateMVC\\CarTemplateMVC\\Models\\Client.cs",
+              "RelativeToolTip": "CarTemplateMVC\\Models\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:26:05.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\CarTemplateMVC\\CarTemplateMVC\\Program.cs",
+              "RelativeDocumentMoniker": "CarTemplateMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\CarTemplateMVC\\CarTemplateMVC\\Program.cs",
+              "RelativeToolTip": "CarTemplateMVC\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:45:48.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Technician.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\CarTemplateMVC\\CarTemplateMVC\\Models\\Technician.cs",
+              "RelativeDocumentMoniker": "CarTemplateMVC\\Models\\Technician.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\CarTemplateMVC\\CarTemplateMVC\\Models\\Technician.cs",
+              "RelativeToolTip": "CarTemplateMVC\\Models\\Technician.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:31:26.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\CarTemplateMVC\\CarTemplateMVC\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarTemplateMVC\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\CarTemplateMVC\\CarTemplateMVC\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "CarTemplateMVC\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T11:28:09.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\CarTemplateMVC\\CarTemplateMVC\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "CarTemplateMVC\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\CarTemplateMVC\\CarTemplateMVC\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "CarTemplateMVC\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:28:03.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\CarTemplateMVC\\CarTemplateMVC\\Views\\Service\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarTemplateMVC\\Views\\Service\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\CarTemplateMVC\\CarTemplateMVC\\Views\\Service\\Index.cshtml",
+              "RelativeToolTip": "CarTemplateMVC\\Views\\Service\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T11:27:03.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\CarTemplateMVC\\CarTemplateMVC\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "CarTemplateMVC\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\CarTemplateMVC\\CarTemplateMVC\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "CarTemplateMVC\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:24:18.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\CarTemplateMVC\\CarTemplateMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarTemplateMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\CarTemplateMVC\\CarTemplateMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CarTemplateMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAHUBAAAAAAAAAAAgwHcBAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T11:23:42.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\CarTemplateMVC\\CarTemplateMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CarTemplateMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\CarTemplateMVC\\CarTemplateMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CarTemplateMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAAFkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T11:19:57.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\CarTemplateMVC\\CarTemplateMVC\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "CarTemplateMVC\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\CarTemplateMVC\\CarTemplateMVC\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "CarTemplateMVC\\Controllers\\ServiceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:26:58.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\CarTemplateMVC\\CarTemplateMVC\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarTemplateMVC\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\CarTemplateMVC\\CarTemplateMVC\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "CarTemplateMVC\\Views\\About\\Index.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwDkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T11:25:38.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
