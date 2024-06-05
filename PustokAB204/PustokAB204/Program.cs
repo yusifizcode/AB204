@@ -1,5 +1,8 @@
+using FluentValidation.AspNetCore;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using PustokAB204.Business.DTOs.BookDTOs;
+using PustokAB204.Business.Mapping;
 using PustokAB204.Business.Services.Abstracts;
 using PustokAB204.Business.Services.Concretes;
 using PustokAB204.Core.Models;
@@ -17,7 +20,12 @@ namespace PustokAB204
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-            builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
+            builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation().AddFluentValidation(x =>
+            {
+                x.RegisterValidatorsFromAssemblyContaining(typeof(BookCreateDTOValidator));
+            });
+            builder.Services.AddAutoMapper(typeof(MappingProfile).Assembly);
+
             builder.Services.AddDbContext<AppDbContext>(opt =>
             {
                 opt.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
@@ -36,6 +44,7 @@ namespace PustokAB204
             }).AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
 
             builder.Services.AddScoped<LayoutService>();
+            builder.Services.AddScoped<IBookService, BookService>();
             builder.Services.AddScoped<IGenreService, GenreService>();
             builder.Services.AddScoped<ITagRepository, TagRepository>();
             builder.Services.AddScoped<ISliderService, SliderService>();
@@ -44,7 +53,6 @@ namespace PustokAB204
             builder.Services.AddScoped<IGenreRepository, GenreRepository>();
             builder.Services.AddScoped<ISliderRepository, SliderRepository>();
             builder.Services.AddScoped<IFeatureRepository, FeatureRepository>();
-
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

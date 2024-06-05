@@ -15,6 +15,7 @@
 
   <ItemGroup>
     <Compile Include="Areas\Admin\Controllers\AccountController.cs" />
+    <Compile Include="Areas\Admin\Controllers\BookController.cs" />
     <Compile Include="Areas\Admin\Controllers\DashboardController.cs" />
     <Compile Include="Areas\Admin\Controllers\FeatureController.cs" />
     <Compile Include="Areas\Admin\Controllers\GenreController.cs" />
@@ -22,11 +23,14 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="wwwroot\uploads\books\" />
     <Folder Include="wwwroot\uploads\sliders\" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="Areas\Admin\Views\Account\Login.cshtml" />
+    <None Include="Areas\Admin\Views\Book\Create.cshtml" />
+    <None Include="Areas\Admin\Views\Book\Index.cshtml" />
     <None Include="Areas\Admin\Views\Dashboard\Index.cshtml" />
     <None Include="Areas\Admin\Views\Feature\Create.cshtml" />
     <None Include="Areas\Admin\Views\Feature\Delete.cshtml" />

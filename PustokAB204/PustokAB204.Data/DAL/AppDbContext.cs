@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using PustokAB204.Core.Models;
+using PustokAB204.Data.Configurations;
 
 namespace PustokAB204.Data.DAL;
 
@@ -14,4 +15,10 @@ public class AppDbContext : IdentityDbContext
     public DbSet<Slider> Sliders { get; set; }
     public DbSet<Feature> Features { get; set; }
     public DbSet<AppUser> Users { get; set; }
+
+    protected override void OnModelCreating(ModelBuilder builder)
+    {
+        builder.ApplyConfigurationsFromAssembly(typeof(BookConfiguration).Assembly);
+        base.OnModelCreating(builder);
+    }
 }

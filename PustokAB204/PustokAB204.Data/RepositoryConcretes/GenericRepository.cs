@@ -1,4 +1,5 @@
-﻿using PustokAB204.Core.Models;
+﻿using Microsoft.EntityFrameworkCore;
+using PustokAB204.Core.Models;
 using PustokAB204.Core.RepositoryAbstracts;
 using PustokAB204.Data.DAL;
 
@@ -32,11 +33,20 @@ public class GenericRepository<T> : IGenericRepository<T> where T : BaseEntity, 
         _appDbContext.Set<T>().Remove(entity);
     }
 
-    public List<T> GetAll(Func<T, bool>? func = null)
+    public List<T> GetAll(Func<T, bool>? func = null, params string[]? includes)
     {
+        var entity = _appDbContext.Set<T>().AsQueryable();
+        if (includes != null)
+        {
+            foreach (var item in includes)
+            {
+                entity = entity.Include(item);
+            }
+        }
+
         return func == null ?
-               _appDbContext.Set<T>().ToList() :
-               _appDbContext.Set<T>().Where(func).ToList();
+               entity.ToList() :
+               entity.Where(func).ToList();
     }
 
     public T Get(Func<T, bool>? func = null)
