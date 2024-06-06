@@ -12,8 +12,8 @@ using PustokAB204.Data.DAL;
 namespace PustokAB204.Data.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20240605105635_CreatedDateColumnAddedAllTables")]
-    partial class CreatedDateColumnAddedAllTables
+    [Migration("20240606110637_BookTagsTableCreated")]
+    partial class BookTagsTableCreated
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -23,21 +23,6 @@ namespace PustokAB204.Data.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder, 1L, 1);
-
-            modelBuilder.Entity("BookTag", b =>
-                {
-                    b.Property<int>("BooksId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("TagsId")
-                        .HasColumnType("int");
-
-                    b.HasKey("BooksId", "TagsId");
-
-                    b.HasIndex("TagsId");
-
-                    b.ToTable("BookTag");
-                });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>
                 {
@@ -251,12 +236,18 @@ namespace PustokAB204.Data.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
+                    b.Property<decimal>("CostPrice")
+                        .HasColumnType("decimal(18,2)");
+
                     b.Property<DateTime?>("CreatedDate")
-                        .HasColumnType("datetime2");
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("datetime2")
+                        .HasDefaultValue(new DateTime(2024, 6, 6, 15, 6, 37, 115, DateTimeKind.Utc).AddTicks(7064));
 
                     b.Property<string>("Description")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(200)
+                        .HasColumnType("nvarchar(200)");
 
                     b.Property<decimal>("DiscountPercent")
                         .HasColumnType("decimal(18,2)");
@@ -281,6 +272,32 @@ namespace PustokAB204.Data.Migrations
                     b.HasIndex("GenreId");
 
                     b.ToTable("Books");
+                });
+
+            modelBuilder.Entity("PustokAB204.Core.Models.BookTag", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.Property<int>("BookId")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime?>("CreatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("TagId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("BookId");
+
+                    b.HasIndex("TagId");
+
+                    b.ToTable("BookTags");
                 });
 
             modelBuilder.Entity("PustokAB204.Core.Models.Feature", b =>
@@ -397,21 +414,6 @@ namespace PustokAB204.Data.Migrations
                     b.HasDiscriminator().HasValue("AppUser");
                 });
 
-            modelBuilder.Entity("BookTag", b =>
-                {
-                    b.HasOne("PustokAB204.Core.Models.Book", null)
-                        .WithMany()
-                        .HasForeignKey("BooksId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("PustokAB204.Core.Models.Tag", null)
-                        .WithMany()
-                        .HasForeignKey("TagsId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-                });
-
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
                 {
                     b.HasOne("Microsoft.AspNetCore.Identity.IdentityRole", null)
@@ -474,9 +476,33 @@ namespace PustokAB204.Data.Migrations
                     b.Navigation("Genre");
                 });
 
+            modelBuilder.Entity("PustokAB204.Core.Models.BookTag", b =>
+                {
+                    b.HasOne("PustokAB204.Core.Models.Book", "Book")
+                        .WithMany()
+                        .HasForeignKey("BookId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("PustokAB204.Core.Models.Tag", "Tag")
+                        .WithMany("BookTags")
+                        .HasForeignKey("TagId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Book");
+
+                    b.Navigation("Tag");
+                });
+
             modelBuilder.Entity("PustokAB204.Core.Models.Genre", b =>
                 {
                     b.Navigation("Books");
+                });
+
+            modelBuilder.Entity("PustokAB204.Core.Models.Tag", b =>
+                {
+                    b.Navigation("BookTags");
                 });
 #pragma warning restore 612, 618
         }

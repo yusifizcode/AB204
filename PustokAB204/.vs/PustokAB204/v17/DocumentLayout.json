@@ -11,12 +11,16 @@
       "RelativeMoniker": "D:0:0:{F3AAA780-7AC5-4748-A40D-B2D81CE4782D}|PustokAB204\\PustokAB204.csproj|solutionrelative:pustokab204\\areas\\admin\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3AAA780-7AC5-4748-A40D-B2D81CE4782D}|PustokAB204\\PustokAB204.csproj|c:\\users\\user\\desktop\\codeacademy\\ab204\\pustokab204\\pustokab204\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3AAA780-7AC5-4748-A40D-B2D81CE4782D}|PustokAB204\\PustokAB204.csproj|solutionrelative:pustokab204\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B37F3525-6EAB-43D9-BB78-0BA7F31EADDB}|PustokAB204.Business\\PustokAB204.Business.csproj|c:\\users\\user\\desktop\\codeacademy\\ab204\\pustokab204\\pustokab204.business\\services\\concretes\\featureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37F3525-6EAB-43D9-BB78-0BA7F31EADDB}|PustokAB204.Business\\PustokAB204.Business.csproj|solutionrelative:pustokab204.business\\services\\concretes\\featureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B37F3525-6EAB-43D9-BB78-0BA7F31EADDB}|PustokAB204.Business\\PustokAB204.Business.csproj|c:\\users\\user\\desktop\\codeacademy\\ab204\\pustokab204\\pustokab204.business\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B37F3525-6EAB-43D9-BB78-0BA7F31EADDB}|PustokAB204.Business\\PustokAB204.Business.csproj|solutionrelative:pustokab204.business\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3AAA780-7AC5-4748-A40D-B2D81CE4782D}|PustokAB204\\PustokAB204.csproj|c:\\users\\user\\desktop\\codeacademy\\ab204\\pustokab204\\pustokab204\\areas\\admin\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3AAA780-7AC5-4748-A40D-B2D81CE4782D}|PustokAB204\\PustokAB204.csproj|solutionrelative:pustokab204\\areas\\admin\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37F3525-6EAB-43D9-BB78-0BA7F31EADDB}|PustokAB204.Business\\PustokAB204.Business.csproj|c:\\users\\user\\desktop\\codeacademy\\ab204\\pustokab204\\pustokab204.business\\dtos\\bookdtos\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37F3525-6EAB-43D9-BB78-0BA7F31EADDB}|PustokAB204.Business\\PustokAB204.Business.csproj|solutionrelative:pustokab204.business\\dtos\\bookdtos\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,34 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\PustokAB204\\PustokAB204\\Areas\\Admin\\Controllers\\BookController.cs",
-              "RelativeDocumentMoniker": "PustokAB204\\Areas\\Admin\\Controllers\\BookController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\PustokAB204\\PustokAB204\\Areas\\Admin\\Controllers\\BookController.cs",
-              "RelativeToolTip": "PustokAB204\\Areas\\Admin\\Controllers\\BookController.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAQwCUAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T12:17:27.169Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\PustokAB204\\PustokAB204\\Program.cs",
-              "RelativeDocumentMoniker": "PustokAB204\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\PustokAB204\\PustokAB204\\Program.cs",
-              "RelativeToolTip": "PustokAB204\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T12:17:17.407Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -62,22 +40,61 @@
               "RelativeDocumentMoniker": "PustokAB204.Business\\Services\\Concretes\\BookService.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\PustokAB204\\PustokAB204.Business\\Services\\Concretes\\BookService.cs",
               "RelativeToolTip": "PustokAB204.Business\\Services\\Concretes\\BookService.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBgAAAAAAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAhwCEAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T12:11:44.074Z",
+              "WhenOpened": "2024-06-06T10:39:18.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FeatureService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\PustokAB204\\PustokAB204.Business\\Services\\Concretes\\FeatureService.cs",
+              "RelativeDocumentMoniker": "PustokAB204.Business\\Services\\Concretes\\FeatureService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\PustokAB204\\PustokAB204.Business\\Services\\Concretes\\FeatureService.cs",
+              "RelativeToolTip": "PustokAB204.Business\\Services\\Concretes\\FeatureService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T10:40:56.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\PustokAB204\\PustokAB204\\Areas\\Admin\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "PustokAB204\\Areas\\Admin\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\PustokAB204\\PustokAB204\\Areas\\Admin\\Controllers\\BookController.cs",
+              "RelativeToolTip": "PustokAB204\\Areas\\Admin\\Controllers\\BookController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T10:36:11.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\PustokAB204\\PustokAB204.Business\\DTOs\\BookDTOs\\BookCreateDTO.cs",
+              "RelativeDocumentMoniker": "PustokAB204.Business\\DTOs\\BookDTOs\\BookCreateDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\PustokAB204\\PustokAB204.Business\\DTOs\\BookDTOs\\BookCreateDTO.cs",
+              "RelativeToolTip": "PustokAB204.Business\\DTOs\\BookDTOs\\BookCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T10:35:40.025Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\PustokAB204\\PustokAB204.Business\\Mapping\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "PustokAB204.Business\\Mapping\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\PustokAB204\\PustokAB204.Business\\Mapping\\MappingProfile.cs",
-              "RelativeToolTip": "PustokAB204.Business\\Mapping\\MappingProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T12:10:43.886Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\PustokAB204\\PustokAB204\\Areas\\Admin\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "PustokAB204\\Areas\\Admin\\Views\\Book\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB204\\PustokAB204\\PustokAB204\\Areas\\Admin\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "PustokAB204\\Areas\\Admin\\Views\\Book\\Create.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwCUAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T10:35:03.395Z",
               "EditorCaption": ""
             }
           ]

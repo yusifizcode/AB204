@@ -6,6 +6,7 @@ using PustokAB204.Business.Extensions;
 using PustokAB204.Business.Services.Abstracts;
 using PustokAB204.Core.Models;
 using PustokAB204.Core.RepositoryAbstracts;
+using PustokAB204.Data.DAL;
 
 namespace PustokAB204.Business.Services.Concretes;
 
@@ -15,12 +16,14 @@ public class BookService : IBookService
     private readonly IWebHostEnvironment _env;
     private readonly IGenreRepository _genreRepository;
     private readonly IMapper _mapper;
-    public BookService(IBookRepository bookRepository, IWebHostEnvironment env, IGenreRepository genreRepository, IMapper mapper)
+    private readonly AppDbContext _appDbContext;
+    public BookService(IBookRepository bookRepository, IWebHostEnvironment env, IGenreRepository genreRepository, IMapper mapper, AppDbContext appDbContext)
     {
         _bookRepository = bookRepository;
         _env = env;
         _genreRepository = genreRepository;
         _mapper = mapper;
+        _appDbContext = appDbContext;
     }
 
 
@@ -39,7 +42,34 @@ public class BookService : IBookService
         //    GenreId = createDTO.GenreId,
         //};
 
+
+
+
+
+
+
         Book book = _mapper.Map<Book>(createDTO);
+
+        if (createDTO.TagIds != null)
+        {
+            foreach (var tagId in createDTO.TagIds)
+            {
+                if (!_appDbContext.Tags.Any(x => x.Id == tagId))
+                    throw new EntityNotFoundException("bele bir tag yoxdur!");
+            }
+
+            foreach (var tagId in createDTO.TagIds)
+            {
+                BookTag bookTag = new BookTag
+                {
+                    TagId = tagId,
+                    Book = book,
+                    CreatedDate = DateTime.UtcNow.AddHours(4),
+                };
+                _appDbContext.BookTags.Add(bookTag);
+            }
+        }
+
 
         book.ImageUrl = Helper.SaveFile(_env.WebRootPath, @"uploads/books", createDTO.ImageFile);
         await _bookRepository.AddAsync(book);

@@ -12,6 +12,7 @@ public class BookCreateDTO
     public string Description { get; set; } = null!;
     public IFormFile ImageFile { get; set; } = null!;
     public int GenreId { get; set; }
+    public List<int> TagIds { get; set; }
 }
 
 public class BookCreateDTOValidator : AbstractValidator<BookCreateDTO>

@@ -11,5 +11,5 @@ public class Book : BaseEntity
 
     public int GenreId { get; set; }
     public Genre Genre { get; set; }
-    public List<Tag> Tags { get; set; }
+    public List<BookTag> BookTags = new List<BookTag>();
 }

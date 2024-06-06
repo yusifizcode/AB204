@@ -15,6 +15,7 @@ public class AppDbContext : IdentityDbContext
     public DbSet<Slider> Sliders { get; set; }
     public DbSet<Feature> Features { get; set; }
     public DbSet<AppUser> Users { get; set; }
+    public DbSet<BookTag> BookTags { get; set; }
 
     protected override void OnModelCreating(ModelBuilder builder)
     {
